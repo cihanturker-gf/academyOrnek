@@ -1,3 +1,5 @@
+![Alt Academy](https://academy.gamefactory.gs/wp-content/uploads/2023/04/Untitled-3-1.png)
+
 # Game Factory Akademi
 
 Her yolculuk ilk adım ile başlar, şimdi ilk adımı atmanın tam zamanı!
