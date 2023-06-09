@@ -1,5 +1,15 @@
 ![Alt Academy](https://academy.gamefactory.gs/wp-content/uploads/2023/04/Untitled-31.png)
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC7RXZKgCyCK2W1vfyafCh6A"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/gamefactoryhub"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/p4ZHkU6shv" alt="Discord" title="Game Factory Akademi Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 # Game Factory Akademi
 
 Her yolculuk ilk adım ile başlar, şimdi ilk adımı atmanın tam zamanı! Game Factory Akademi programlarında oyun geliştiricisi olmayı öğrenin ve yolunuzu çizin!
