@@ -13,6 +13,7 @@ Her yolculuk ilk adım ile başlar, şimdi ilk adımı atmanın tam zamanı! Gam
   - [Endüstriye Hazırlık Eğitimi](#endstriye-hazrlk-eitimi)
   - [Deneyimli Mentor Desteği](#deneyimli-mentor-destei)
   - [İş ve İstihdam Olanakları](#i-ve-istihdam-olanaklar)
+- [Game Factory Akademi Team!](#game-factory-akademi-team)
 
 
 # Program Detayları
@@ -40,4 +41,16 @@ Programlarımız, öğrencileri oyun endüstrisinde çalışmanın gerçeklerine
 ## İş ve İstihdam Olanakları
 
 Öğrencilerimizin oyun endüstrisinde istihdam fırsatları bulmalarına yardımcı olmaya kararlıyız. Önde gelen oyun geliştirme stüdyoları ve yayıncıları ile yakın ilişkiler sürdürüyoruz ve öğrencilerimizin iş fırsatları bulmasına aktif olarak yardımcı oluyoruz.
+
+# Game Factory Akademi Team!
+
+[Erdal Sarı (CEO)]
+[Murat Kahraman (Co-Founder)]
+[Serkan Alıç (Academy Operations)]
+[Ceren Tunay (Business Development Manager & Community Manager)]
+[Oğuzhan Bilgin (Product Manager)]
+[Osman Can Akcan (Game Manager)]
+[Egemen Kağan Duman (Event and Program Manager)]
+[Cihan Türker (Associate Product Manager & Social Media Specialist)]
+[Gülnur Sarı (Human Resources Specialist)]
 
