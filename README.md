@@ -2,11 +2,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC7RXZKgCyCK2W1vfyafCh6A"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/channel/UC7RXZKgCyCK2W1vfyafCh6A"><img width="32px" alt="Youtube" title="Youtube" src="https://assets.stickpng.com/images/627b94685a3e2ac874a7573c.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/gamefactoryhub"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/gamefactoryhub"><img width="32px" alt="Twitter" title="Twitter" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/twitter-icon-18-256.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/p4ZHkU6shv" alt="Discord" title="Game Factory Akademi Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/p4ZHkU6shv" alt="Discord" title="Game Factory Akademi Discord Server"><img width="32px" src="https://www.seekpng.com/png/full/20-205511_discord-transparent-staff-discord-logo-black-and-white.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
