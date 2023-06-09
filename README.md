@@ -44,21 +44,21 @@ Programlarımız, öğrencileri oyun endüstrisinde çalışmanın gerçeklerine
 
 # Game Factory Akademi Team!
 
-[Erdal Sarı (CEO & Co-Founder)](https://www.linkedin.com/in/erdal-sarı-2b8338116/)
+[Erdal Sarı](https://www.linkedin.com/in/erdal-sarı-2b8338116/) (CEO & Co-Founder)
 
-[Murat Kahraman (Co-Founder)](https://www.linkedin.com/in/muratkahraman/)
+[Murat Kahraman](https://www.linkedin.com/in/muratkahraman/) (Co-Founder)
 
-[Serkan Alıç (Operations Manager)](https://www.linkedin.com/in/serkanalc/)
+[Serkan Alıç](https://www.linkedin.com/in/serkanalc/) (Operations Manager)
 
-[Ceren Tunay (Head of Business Development Management & Community Manager)](https://www.linkedin.com/in/gulcerentunay/)
+[Ceren Tunay](https://www.linkedin.com/in/gulcerentunay/) (Head of Business Development Management & Community Manager)
 
-[Oğuzhan Bilgin (Product Manager)](https://www.linkedin.com/in/oğuzhan-bilgin-34014417a/)
+[Oğuzhan Bilgin](https://www.linkedin.com/in/oğuzhan-bilgin-34014417a/) (Product Manager)
 
-[Osman Can Akcan (Game Manager)](https://www.linkedin.com/in/osmancanakcan/)
+[Osman Can Akcan](https://www.linkedin.com/in/osmancanakcan/) (Game Manager)
 
-[Egemen Kağan Duman (Event and Program Manager)](https://www.linkedin.com/in/egemenkaganduman/)
+[Egemen Kağan Duman](https://www.linkedin.com/in/egemenkaganduman/) (Event and Program Manager)
 
-[Cihan Türker (Associate Product Manager & Social Media Specialist)](https://www.linkedin.com/in/cihan-turker-2597701b9/)
+[Cihan Türker](https://www.linkedin.com/in/cihan-turker-2597701b9/) (Associate Product Manager & Social Media Specialist)
 
-[Gülnur Sarı (Human Resources Specialist)](https://www.linkedin.com/in/gülnur-sarı-719543250/)
+[Gülnur Sarı](https://www.linkedin.com/in/gülnur-sarı-719543250/) (Human Resources Specialist)
 
