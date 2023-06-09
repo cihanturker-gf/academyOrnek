@@ -2,7 +2,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC7RXZKgCyCK2W1vfyafCh6A"><img width="32px" alt="Youtube" title="Youtube" src="https://assets.stickpng.com/images/627b94685a3e2ac874a7573c.png"/></a>
+  <a href="https://www.youtube.com/channel/UC7RXZKgCyCK2W1vfyafCh6A"><img width="32px" alt="Youtube" title="Youtube" src="https://clipart-library.com/images/dc4LABqni.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/gamefactoryhub"><img width="32px" alt="Twitter" title="Twitter" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/twitter-icon-18-256.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
