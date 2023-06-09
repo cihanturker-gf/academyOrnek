@@ -1,13 +1,23 @@
-![Alt Academy](https://academy.gamefactory.gs/wp-content/uploads/2023/04/Untitled-3-1.png)
+![Alt Academy](https://academy.gamefactory.gs/wp-content/uploads/2023/04/Untitled-31.png)
 
 # Game Factory Akademi
 
-Her yolculuk ilk adım ile başlar, şimdi ilk adımı atmanın tam zamanı!
-Game Factory Akademi programlarında oyun geliştiricisi olmayı öğrenin ve yolunuzu çizin!
+Her yolculuk ilk adım ile başlar, şimdi ilk adımı atmanın tam zamanı! Game Factory Akademi programlarında oyun geliştiricisi olmayı öğrenin ve yolunuzu çizin!
 
-# Program Detayları
+##### Table of Contents
 
-Kaliteli Teknik Eğitim
+[Kaliteli Teknik Eğitim](# Kaliteli Teknik Eğitim)  
+[Uygulamalı Proje Deneyimi](# Uygulamalı Proje Deneyimi)
+[Bire Bir Teknik Destek](# Bire Bir Teknik Destek)
+[Endüstriye Hazırlık Eğitimi](# Endüstriye Hazırlık Eğitimi) 
+[Deneyimli Mentor Desteği](# Deneyimli Mentor Desteği) 
+[İş ve İstihdam Olanakları](# İş ve İstihdam Olanakları)
+
+
+## Program Detayları
+
+# Kaliteli Teknik Eğitim
+
 Oyun endüstrisi ile ilgili çok çeşitli konuları kapsayan yüksek kaliteli teknik eğitim sağlıyoruz. Canlı dersler eşliğinde uygulamalı eğitim modeli ile öğrencilerimizi tecrübe kazandırarak onları işe başlamaya hazır konuma getiriyoruz.
 
 # Uygulamalı Proje Deneyimi
