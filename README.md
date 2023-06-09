@@ -45,12 +45,20 @@ Programlarımız, öğrencileri oyun endüstrisinde çalışmanın gerçeklerine
 # Game Factory Akademi Team!
 
 [Erdal Sarı (CEO & Co-Founder)](https://www.linkedin.com/in/erdal-sarı-2b8338116/)
+
 [Murat Kahraman (Co-Founder)](https://www.linkedin.com/in/muratkahraman/)
+
 [Serkan Alıç (Operations Manager)](https://www.linkedin.com/in/serkanalc/)
+
 [Ceren Tunay (Head of Business Development Management & Community Manager)](https://www.linkedin.com/in/gulcerentunay/)
+
 [Oğuzhan Bilgin (Product Manager)](https://www.linkedin.com/in/oğuzhan-bilgin-34014417a/)
+
 [Osman Can Akcan (Game Manager)](https://www.linkedin.com/in/osmancanakcan/)
+
 [Egemen Kağan Duman (Event and Program Manager)](https://www.linkedin.com/in/egemenkaganduman/)
+
 [Cihan Türker (Associate Product Manager & Social Media Specialist)](https://www.linkedin.com/in/cihan-turker-2597701b9/)
+
 [Gülnur Sarı (Human Resources Specialist)](https://www.linkedin.com/in/gülnur-sarı-719543250/)
 
